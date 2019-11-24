@@ -1,0 +1,22 @@
+{:title "About"
+ :layout :page
+ :page-index 0
+ :navbar? true}
+
+Hi!
+
+I'm Brian "fdeitylink" Christian. Welcome to my programming blog!
+
+I've been programming in my free time since 2014 and semi-professionally since 2016. Currently I am working towards a bachelor's degree in Computer Science at the Rochester Institute of Technology.
+
+I write about a number of topics across the programming spectrum, including [my own projects](https://github.com/fdeitylink?tab=repositories), developer news, musings/rants on different subjects, and anything else as I see fit.
+
+My interests include:
+* programming languages
+* compilers and interpreters
+* functional programming
+* theoretical computer science
+
+I've worked with a variety of languages, including Java, Kotlin, and Clojure, the latter being my current favorite.
+
+Be sure to read my blog if any of this interests you!
